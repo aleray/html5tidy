@@ -5,6 +5,18 @@ Simple wrapper around html5lib & lxml.etree to "tidy" html in the wild to
 well-formed xml/html
 
 
+Installation
+------------
+
+From Pypi:
+
+    pip install html5tidy
+
+From the github repository:
+
+    pip install git+git://github.com/aleray/html5tidy.git
+
+
 Usage
 -----
 
