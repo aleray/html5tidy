@@ -25,8 +25,9 @@ With the python module
 Copyright
 ---------
 
-2011, 2012 [The active archives contributors](http://activearchives.org/)
-2011, 2012 Michael Murtaugh
+- 2011, 2012 [The active archives contributors](http://activearchives.org/)
+- 2011, 2012 Michael Murtaugh
+
 All rights reserved.
 
 This software is released under the GPL3 license. See gpl-3.0.txt for details.
